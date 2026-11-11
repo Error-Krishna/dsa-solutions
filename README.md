@@ -61,6 +61,9 @@ dsa-solutions/
 
 <!-- DSA_PROGRESS_START -->
 **Overall Progress:** 0/0 (0%)
+<!-- DSA_PROGRESS_END -->
+**Overall Progress:** 0/0 (0%)
+**Overall Progress:** 0/0 (0%)
 **Overall Progress:** 0/0 (0%)
 `0 / 0 problems solved`
 ![Progress](https://progress-bar.xyz/0/?width=400)
@@ -69,9 +72,11 @@ dsa-solutions/
 **Overall Progress:** 0/0 (0%)
 **Overall Progress:** 0/0 (0%)
 **Overall Progress:** 0/0 (0%)
+**Overall Progress:** 0/0 (0%)
 `0 / 0 problems solved`
 ![Progress](https://progress-bar.xyz/0/?width=400)
 <!-- DSA_PROGRESS_END -->
+**Overall Progress:** 0/0 (0%)
 **Overall Progress:** 0/0 (0%)
 **Overall Progress:** 0/0 (0%)
 **Overall Progress:** 0/0 (0%)
@@ -86,12 +91,12 @@ The following roadmap contains 150 carefully selected problems, progressing from
 All problem titles link directly to their respective LeetCode statements.
 
 ### 1. Arrays & Hashing — 15 Problems
-**Progress: 3/15 completed**
+**Progress: 4/15 completed**
 
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) — Easy
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/) — Easy
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) — Easy
-- [ ] [Majority Element](https://leetcode.com/problems/majority-element/) — Easy
+- [x] [Majority Element](https://leetcode.com/problems/majority-element/) — Easy
 - [ ] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) — Easy
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) — Medium
 - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) — Medium
