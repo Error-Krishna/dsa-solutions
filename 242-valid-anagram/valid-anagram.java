@@ -10,8 +10,6 @@ class Solution {
         }
         for(int i = 0; i<sizeS; i++){
             arr[s.charAt(i)-'a']++;
-        }
-        for(int i = 0; i<sizeT; i++){
             arr[t.charAt(i)-'a']--;
         }
         for(int n: arr){
