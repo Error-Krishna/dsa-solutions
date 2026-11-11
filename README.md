@@ -59,224 +59,217 @@ dsa-solutions/
 
 ## 📚 DSA Roadmap & Problem Tracker
 
+<!-- DSA_PROGRESS_START -->
+**Overall Progress:** 0/0 (0%)
+`0 / 0 problems solved`
+![Progress](https://progress-bar.xyz/0/?width=400)
+<!-- DSA_PROGRESS_END -->
+
 The following roadmap contains 150 carefully selected problems, progressing from fundamental concepts to advanced interview-level patterns.
 
 All problem titles link directly to their respective LeetCode statements.
 
 ### 1. Arrays & Hashing — 15 Problems
+**Progress: 3/15 completed**
 
-| # | Problem | Difficulty |
-|---:|---|---|
-| 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy |
-| 2 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy |
-| 3 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy |
-| 4 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy |
-| 5 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy |
-| 6 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium |
-| 7 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium |
-| 8 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium |
-| 9 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium |
-| 10 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium |
-| 11 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard |
-| 12 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium |
-| 13 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | Medium |
-| 14 | [4Sum](https://leetcode.com/problems/4sum/) | Medium |
-| 15 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Medium |
+- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) — Easy
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/) — Easy
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) — Easy
+- [ ] [Majority Element](https://leetcode.com/problems/majority-element/) — Easy
+- [ ] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) — Easy
+- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) — Medium
+- [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) — Medium
+- [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) — Medium
+- [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) — Medium
+- [ ] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) — Medium
+- [ ] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) — Hard
+- [ ] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) — Medium
+- [ ] [Contiguous Array](https://leetcode.com/problems/contiguous-array/) — Medium
+- [ ] [4Sum](https://leetcode.com/problems/4sum/) — Medium
+- [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) — Medium
 
 ### 2. Two Pointers — 10 Problems
+**Progress: 0/10 completed**
 
-| # | Problem | Difficulty |
-|---:|---|---|
-| 16 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy |
-| 17 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium |
-| 18 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy |
-| 19 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy |
-| 20 | [3Sum](https://leetcode.com/problems/3sum/) | Medium |
-| 21 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium |
-| 22 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium |
-| 23 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard |
-| 24 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | Medium |
-| 25 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium |
+- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) — Easy
+- [ ] [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) — Medium
+- [ ] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) — Easy
+- [ ] [Move Zeroes](https://leetcode.com/problems/move-zeroes/) — Easy
+- [ ] [3Sum](https://leetcode.com/problems/3sum/) — Medium
+- [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) — Medium
+- [ ] [Sort Colors](https://leetcode.com/problems/sort-colors/) — Medium
+- [ ] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) — Hard
+- [ ] [Partition Labels](https://leetcode.com/problems/partition-labels/) — Medium
+- [ ] [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) — Medium
 
 ### 3. Sliding Window — 10 Problems
+**Progress: 0/10 completed**
 
-| # | Problem | Difficulty |
-|---:|---|---|
-| 26 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy |
-| 27 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy |
-| 28 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium |
-| 29 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium |
-| 30 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium |
-| 31 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium |
-| 32 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium |
-| 33 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium |
-| 34 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard |
-| 35 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard |
+- [ ] [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) — Easy
+- [ ] [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) — Easy
+- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) — Medium
+- [ ] [Permutation in String](https://leetcode.com/problems/permutation-in-string/) — Medium
+- [ ] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) — Medium
+- [ ] [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) — Medium
+- [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) — Medium
+- [ ] [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) — Medium
+- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) — Hard
+- [ ] [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) — Hard
 
 ### 4. Prefix Sum & Kadane's Algorithm — 7 Problems
+**Progress: 0/7 completed**
 
-| # | Problem | Difficulty |
-|---:|---|---|
-| 36 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy |
-| 37 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy |
-| 38 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | Easy |
-| 39 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium |
-| 40 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium |
-| 41 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium |
-| 42 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Medium |
+- [ ] [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) — Easy
+- [ ] [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) — Easy
+- [ ] [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) — Easy
+- [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) — Medium
+- [ ] [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) — Medium
+- [ ] [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) — Medium
+- [ ] [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) — Medium
 
 ### 5. Linked Lists — 10 Problems
+**Progress: 0/10 completed**
 
-| # | Problem | Difficulty |
-|---:|---|---|
-| 43 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy |
-| 44 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy |
-| 45 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy |
-| 46 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy |
-| 47 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium |
-| 48 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium |
-| 49 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium |
-| 50 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium |
-| 51 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Medium |
-| 52 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard |
+- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) — Easy
+- [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) — Easy
+- [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) — Easy
+- [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) — Easy
+- [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) — Medium
+- [ ] [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) — Medium
+- [ ] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) — Medium
+- [ ] [Reorder List](https://leetcode.com/problems/reorder-list/) — Medium
+- [ ] [Rotate List](https://leetcode.com/problems/rotate-list/) — Medium
+- [ ] [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) — Hard
 
 ### 6. Stack & Queue — 10 Problems
+**Progress: 0/10 completed**
 
-| # | Problem | Difficulty |
-|---:|---|---|
-| 53 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy |
-| 54 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy |
-| 55 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium |
-| 56 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium |
-| 57 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium |
-| 58 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy |
-| 59 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Medium |
-| 60 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard |
-| 61 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | Medium |
-| 62 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium |
+- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) — Easy
+- [ ] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) — Easy
+- [ ] [Min Stack](https://leetcode.com/problems/min-stack/) — Medium
+- [ ] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) — Medium
+- [ ] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) — Medium
+- [ ] [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) — Easy
+- [ ] [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) — Medium
+- [ ] [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) — Hard
+- [ ] [Car Fleet](https://leetcode.com/problems/car-fleet/) — Medium
+- [ ] [Online Stock Span](https://leetcode.com/problems/online-stock-span/) — Medium
 
 ### 7. Binary Search — 12 Problems
+**Progress: 0/12 completed**
 
-| # | Problem | Difficulty |
-|---:|---|---|
-| 63 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy |
-| 64 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy |
-| 65 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy |
-| 66 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium |
-| 67 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium |
-| 68 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium |
-| 69 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium |
-| 70 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium |
-| 71 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium |
-| 72 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy |
-| 73 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard |
-| 74 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | Hard |
+- [ ] [Binary Search](https://leetcode.com/problems/binary-search/) — Easy
+- [ ] [Search Insert Position](https://leetcode.com/problems/search-insert-position/) — Easy
+- [ ] [First Bad Version](https://leetcode.com/problems/first-bad-version/) — Easy
+- [ ] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) — Medium
+- [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) — Medium
+- [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) — Medium
+- [ ] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) — Medium
+- [ ] [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) — Medium
+- [ ] [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) — Medium
+- [ ] [Sqrt(x)](https://leetcode.com/problems/sqrtx/) — Easy
+- [ ] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) — Hard
+- [ ] [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) — Hard
 
 ### 8. Recursion & Backtracking — 10 Problems
+**Progress: 0/10 completed**
 
-| # | Problem | Difficulty |
-|---:|---|---|
-| 75 | [Subsets](https://leetcode.com/problems/subsets/) | Medium |
-| 76 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium |
-| 77 | [Permutations](https://leetcode.com/problems/permutations/) | Medium |
-| 78 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium |
-| 79 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | Medium |
-| 80 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium |
-| 81 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium |
-| 82 | [Word Search](https://leetcode.com/problems/word-search/) | Medium |
-| 83 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard |
-| 84 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard |
+- [ ] [Subsets](https://leetcode.com/problems/subsets/) — Medium
+- [ ] [Combination Sum](https://leetcode.com/problems/combination-sum/) — Medium
+- [ ] [Permutations](https://leetcode.com/problems/permutations/) — Medium
+- [ ] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) — Medium
+- [ ] [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) — Medium
+- [ ] [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) — Medium
+- [ ] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) — Medium
+- [ ] [Word Search](https://leetcode.com/problems/word-search/) — Medium
+- [ ] [N-Queens](https://leetcode.com/problems/n-queens/) — Hard
+- [ ] [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) — Hard
 
 ### 9. Trees & Binary Search Trees — 15 Problems
+**Progress: 0/15 completed**
 
-| # | Problem | Difficulty |
-|---:|---|---|
-| 85 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy |
-| 86 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy |
-| 87 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy |
-| 88 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium |
-| 89 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy |
-| 90 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy |
-| 91 | [Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
-| 92 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium |
-| 93 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium |
-| 94 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium |
-| 95 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | Medium |
-| 96 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
-| 97 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | Medium |
-| 98 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard |
-| 99 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard |
+- [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) — Easy
+- [ ] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) — Easy
+- [ ] [Same Tree](https://leetcode.com/problems/same-tree/) — Easy
+- [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) — Medium
+- [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) — Easy
+- [ ] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) — Easy
+- [ ] [Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) — Medium
+- [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) — Medium
+- [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) — Medium
+- [ ] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) — Medium
+- [ ] [Path Sum II](https://leetcode.com/problems/path-sum-ii/) — Medium
+- [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) — Medium
+- [ ] [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) — Medium
+- [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) — Hard
+- [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) — Hard
 
 ### 10. Heap & Priority Queue — 8 Problems
+**Progress: 1/8 completed**
 
-| # | Problem | Difficulty |
-|---:|---|---|
-| 100 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium |
-| 101 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium |
-| 102 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard |
-| 103 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy |
-| 104 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | Medium |
-| 105 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard |
-| 106 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | Medium |
-| 107 | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | Medium |
+- [x] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) — Medium
+- [ ] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) — Medium
+- [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) — Hard
+- [ ] [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) — Easy
+- [ ] [Task Scheduler](https://leetcode.com/problems/task-scheduler/) — Medium
+- [ ] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) — Hard
+- [ ] [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) — Medium
+- [ ] [Reorganize String](https://leetcode.com/problems/reorganize-string/) — Medium
 
 ### 11. Greedy & Intervals — 8 Problems
+**Progress: 0/8 completed**
 
-| # | Problem | Difficulty |
-|---:|---|---|
-| 108 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy |
-| 109 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium |
-| 110 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium |
-| 111 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium |
-| 112 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium |
-| 113 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Medium |
-| 114 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium |
-| 115 | [Gas Station](https://leetcode.com/problems/gas-station/) | Medium |
+- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) — Easy
+- [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) — Medium
+- [ ] [Jump Game](https://leetcode.com/problems/jump-game/) — Medium
+- [ ] [Jump Game II](https://leetcode.com/problems/jump-game-ii/) — Medium
+- [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/) — Medium
+- [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) — Medium
+- [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/) — Medium
+- [ ] [Gas Station](https://leetcode.com/problems/gas-station/) — Medium
 
 ### 12. Graphs — 15 Problems
+**Progress: 0/15 completed**
 
-| # | Problem | Difficulty |
-|---:|---|---|
-| 116 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | Easy |
-| 117 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium |
-| 118 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium |
-| 119 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | Medium |
-| 120 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium |
-| 121 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium |
-| 122 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Medium |
-| 123 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | Medium |
-| 124 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | Medium |
-| 125 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | Medium |
-| 126 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Medium |
-| 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | Hard |
-| 128 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | Medium |
-| 129 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Medium |
-| 130 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | Medium |
+- [ ] [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) — Easy
+- [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/) — Medium
+- [ ] [Clone Graph](https://leetcode.com/problems/clone-graph/) — Medium
+- [ ] [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) — Medium
+- [ ] [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) — Medium
+- [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/) — Medium
+- [ ] [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) — Medium
+- [ ] [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) — Medium
+- [ ] [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) — Medium
+- [ ] [01 Matrix](https://leetcode.com/problems/01-matrix/) — Medium
+- [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) — Medium
+- [ ] [Word Ladder](https://leetcode.com/problems/word-ladder/) — Hard
+- [ ] [Network Delay Time](https://leetcode.com/problems/network-delay-time/) — Medium
+- [ ] [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) — Medium
+- [ ] [Redundant Connection](https://leetcode.com/problems/redundant-connection/) — Medium
 
 ### 13. Dynamic Programming — 20 Problems
+**Progress: 0/20 completed**
 
-| # | Problem | Difficulty |
-|---:|---|---|
-| 131 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy |
-| 132 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy |
-| 133 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium |
-| 134 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium |
-| 135 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium |
-| 136 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | Medium |
-| 137 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium |
-| 138 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium |
-| 139 | [Word Break](https://leetcode.com/problems/word-break/) | Medium |
-| 140 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium |
-| 141 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Medium |
-| 142 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium |
-| 143 | [Target Sum](https://leetcode.com/problems/target-sum/) | Medium |
-| 144 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | Medium |
-| 145 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium |
-| 146 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | Medium |
-| 147 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Medium |
-| 148 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | Hard |
-| 149 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
-| 150 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | Hard |
+- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) — Easy
+- [ ] [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) — Easy
+- [ ] [House Robber](https://leetcode.com/problems/house-robber/) — Medium
+- [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii/) — Medium
+- [ ] [Coin Change](https://leetcode.com/problems/coin-change/) — Medium
+- [ ] [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) — Medium
+- [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) — Medium
+- [ ] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) — Medium
+- [ ] [Word Break](https://leetcode.com/problems/word-break/) — Medium
+- [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/) — Medium
+- [ ] [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) — Medium
+- [ ] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) — Medium
+- [ ] [Target Sum](https://leetcode.com/problems/target-sum/) — Medium
+- [ ] [Decode Ways](https://leetcode.com/problems/decode-ways/) — Medium
+- [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) — Medium
+- [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) — Medium
+- [ ] [Edit Distance](https://leetcode.com/problems/edit-distance/) — Medium
+- [ ] [Burst Balloons](https://leetcode.com/problems/burst-balloons/) — Hard
+- [ ] [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) — Medium
+- [ ] [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) — Hard
 
 ## ⚙️ Automated LeetCode Synchronization
 
