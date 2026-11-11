@@ -59,45 +59,19 @@ dsa-solutions/
 
 ## 📚 DSA Roadmap & Problem Tracker
 
-<!-- DSA_PROGRESS_START -->
-**Overall Progress:** 0/0 (0%)
-**Overall Progress:** 0/0 (0%)
-`0 / 0 problems solved`
-![Progress](https://progress-bar.xyz/0/?width=400)
-<!-- DSA_PROGRESS_END -->
-**Overall Progress:** 0/0 (0%)
-**Overall Progress:** 0/0 (0%)
-**Overall Progress:** 0/0 (0%)
-**Overall Progress:** 0/0 (0%)
-`0 / 0 problems solved`
-![Progress](https://progress-bar.xyz/0/?width=400)
-<!-- DSA_PROGRESS_END -->
-**Overall Progress:** 0/0 (0%)
-**Overall Progress:** 0/0 (0%)
-**Overall Progress:** 0/0 (0%)
-**Overall Progress:** 0/0 (0%)
-**Overall Progress:** 0/0 (0%)
-**Overall Progress:** 0/0 (0%)
-`0 / 0 problems solved`
-![Progress](https://progress-bar.xyz/0/?width=400)
-<!-- DSA_PROGRESS_END -->
-**Overall Progress:** 0/0 (0%)
-**Overall Progress:** 0/0 (0%)
-**Overall Progress:** 0/0 (0%)
-**Overall Progress:** 0/0 (0%)
-**Overall Progress:** 0/0 (0%)
-**Overall Progress:** 0/0 (0%)
-**Overall Progress:** 0/0 (0%)
-`0 / 0 problems solved`
-![Progress](https://progress-bar.xyz/0/?width=400)
-<!-- DSA_PROGRESS_END -->
 
 The following roadmap contains 150 carefully selected problems, progressing from fundamental concepts to advanced interview-level patterns.
 
 All problem titles link directly to their respective LeetCode statements.
 
+<!-- DSA_PROGRESS_START -->
+**Overall Progress:** 5/150 (3.3%)
+`█░░░░░░░░░░░░░░░░░░░`
+`5 / 150 problems solved`
+<!-- DSA_PROGRESS_END -->
+
 ### 1. Arrays & Hashing — 15 Problems
-**Progress: 4/15 completed**
+**Progress: 15/4 completed**
 
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) — Easy
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/) — Easy
@@ -116,7 +90,7 @@ All problem titles link directly to their respective LeetCode statements.
 - [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) — Medium
 
 ### 2. Two Pointers — 10 Problems
-**Progress: 0/10 completed**
+**Progress: 10/0 completed**
 
 - [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) — Easy
 - [ ] [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) — Medium
@@ -130,7 +104,7 @@ All problem titles link directly to their respective LeetCode statements.
 - [ ] [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) — Medium
 
 ### 3. Sliding Window — 10 Problems
-**Progress: 0/10 completed**
+**Progress: 10/0 completed**
 
 - [ ] [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) — Easy
 - [ ] [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) — Easy
@@ -144,7 +118,7 @@ All problem titles link directly to their respective LeetCode statements.
 - [ ] [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) — Hard
 
 ### 4. Prefix Sum & Kadane's Algorithm — 7 Problems
-**Progress: 0/7 completed**
+**Progress: 7/0 completed**
 
 - [ ] [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) — Easy
 - [ ] [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) — Easy
@@ -155,7 +129,7 @@ All problem titles link directly to their respective LeetCode statements.
 - [ ] [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) — Medium
 
 ### 5. Linked Lists — 10 Problems
-**Progress: 0/10 completed**
+**Progress: 10/0 completed**
 
 - [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) — Easy
 - [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) — Easy
@@ -169,7 +143,7 @@ All problem titles link directly to their respective LeetCode statements.
 - [ ] [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) — Hard
 
 ### 6. Stack & Queue — 10 Problems
-**Progress: 0/10 completed**
+**Progress: 10/0 completed**
 
 - [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) — Easy
 - [ ] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) — Easy
@@ -183,7 +157,7 @@ All problem titles link directly to their respective LeetCode statements.
 - [ ] [Online Stock Span](https://leetcode.com/problems/online-stock-span/) — Medium
 
 ### 7. Binary Search — 12 Problems
-**Progress: 0/12 completed**
+**Progress: 12/0 completed**
 
 - [ ] [Binary Search](https://leetcode.com/problems/binary-search/) — Easy
 - [ ] [Search Insert Position](https://leetcode.com/problems/search-insert-position/) — Easy
@@ -199,7 +173,7 @@ All problem titles link directly to their respective LeetCode statements.
 - [ ] [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) — Hard
 
 ### 8. Recursion & Backtracking — 10 Problems
-**Progress: 0/10 completed**
+**Progress: 10/0 completed**
 
 - [ ] [Subsets](https://leetcode.com/problems/subsets/) — Medium
 - [ ] [Combination Sum](https://leetcode.com/problems/combination-sum/) — Medium
@@ -213,7 +187,7 @@ All problem titles link directly to their respective LeetCode statements.
 - [ ] [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) — Hard
 
 ### 9. Trees & Binary Search Trees — 15 Problems
-**Progress: 0/15 completed**
+**Progress: 15/0 completed**
 
 - [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) — Easy
 - [ ] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) — Easy
@@ -232,7 +206,7 @@ All problem titles link directly to their respective LeetCode statements.
 - [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) — Hard
 
 ### 10. Heap & Priority Queue — 8 Problems
-**Progress: 1/8 completed**
+**Progress: 8/1 completed**
 
 - [x] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) — Medium
 - [ ] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) — Medium
@@ -244,7 +218,7 @@ All problem titles link directly to their respective LeetCode statements.
 - [ ] [Reorganize String](https://leetcode.com/problems/reorganize-string/) — Medium
 
 ### 11. Greedy & Intervals — 8 Problems
-**Progress: 0/8 completed**
+**Progress: 8/0 completed**
 
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) — Easy
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) — Medium
@@ -256,7 +230,7 @@ All problem titles link directly to their respective LeetCode statements.
 - [ ] [Gas Station](https://leetcode.com/problems/gas-station/) — Medium
 
 ### 12. Graphs — 15 Problems
-**Progress: 0/15 completed**
+**Progress: 15/0 completed**
 
 - [ ] [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) — Easy
 - [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/) — Medium
@@ -275,7 +249,7 @@ All problem titles link directly to their respective LeetCode statements.
 - [ ] [Redundant Connection](https://leetcode.com/problems/redundant-connection/) — Medium
 
 ### 13. Dynamic Programming — 20 Problems
-**Progress: 0/20 completed**
+**Progress: 20/0 completed**
 
 - [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) — Easy
 - [ ] [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) — Easy
