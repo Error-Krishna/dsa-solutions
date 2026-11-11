@@ -61,10 +61,14 @@ dsa-solutions/
 
 <!-- DSA_PROGRESS_START -->
 **Overall Progress:** 0/0 (0%)
+<!-- DSA_PROGRESS_END -->
+**Overall Progress:** 0/0 (0%)
+**Overall Progress:** 0/0 (0%)
 **Overall Progress:** 0/0 (0%)
 `0 / 0 problems solved`
 ![Progress](https://progress-bar.xyz/0/?width=400)
 <!-- DSA_PROGRESS_END -->
+**Overall Progress:** 0/0 (0%)
 **Overall Progress:** 0/0 (0%)
 **Overall Progress:** 0/0 (0%)
 **Overall Progress:** 0/0 (0%)
